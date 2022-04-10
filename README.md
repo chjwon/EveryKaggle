@@ -1,13 +1,24 @@
 # EveryKaggle
 
-## Format for file_name
+## Format for file_name & dir
+
+
 
 ### ____________________
-### directory name
-### kaggle_project_name
-### ex) Titanic - Machine Learning from Disaster
-
-### ____________________
-### file name
-### recommand to use .ipynb
-### [githubName].ipynb
+### dir
+#### kaggle_project_name ex) Titanic - Machine Learning from Disaster
+#### -------
+#### -------
+#### -------data
+#### -----------|
+#### -----------|
+#### -----------csv file from project
+#### -------|
+#### -------|
+#### -------submission
+#### ----------------|
+#### ----------------|
+#### ----------------csv file for submission ex) chjwon.csv
+#### -------|
+#### -------|
+#### -------ipynb file ex) chjwon.ipynb
